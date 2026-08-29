@@ -15,6 +15,14 @@
 <img src="https://streak-stats.demolab.com/?user=ALIEN817&background=transparent&ring=00c8ff&fire=00c8ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00c8ff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /><br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ALIEN817&bg_color=0f141900&title_color=00c8ff&text_color=ffffff&hide_border=true&layout=compact" alt="Top Languages" />
 
+<br/><br/>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALIEN817/ALIEN817/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALIEN817/ALIEN817/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ALIEN817/ALIEN817/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 [![](https://komarev.com/ghpvc/?username=ALIEN817&icon=0&color=blue)](https://visitcount.itsvg.in)
 
